@@ -64,7 +64,7 @@ answers come from the reader; hence `gpt-5.5` on LongMemEval_S.
 ## Run it
 
 ```bash
-git clone https://github.com/unibaseio/membase-bench && cd membase-bench
+git clone https://github.com/membaseai/membase-bench && cd membase-bench
 uv venv --python 3.12 && uv pip install --torch-backend cpu -e ".[dev]" && source .venv/bin/activate
 export OPENAI_API_KEY=sk-... MEMBASE_EPISODE_MODEL=gpt-4.1-mini MEMBASE_DECIDER_MODEL=gpt-4.1-mini MEMBASE_READER_MODEL=gpt-4.1-mini
 
