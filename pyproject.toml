@@ -26,7 +26,7 @@ zep = ["zep-cloud"]
 graphiti = ["graphiti-core[falkordb]"]
 
 [project.urls]
-Repository = "https://github.com/unibaseio/membase-bench"
+Repository = "https://github.com/membaseai/membase-bench"
 
 [build-system]
 requires = ["hatchling>=1.27"]
