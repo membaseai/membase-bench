@@ -1,11 +1,11 @@
 membase-bench — Proprietary License
 
-Copyright (c) 2026 Unibase. All rights reserved.
+Copyright (c) 2026 Membase. All rights reserved.
 
 This software, including its source code, documentation, figures and results (the "Software"),
-is proprietary to Unibase and is licensed, not sold.
+is proprietary to Membase and is licensed, not sold.
 
-1. Use. Unibase grants you a non-exclusive, non-transferable, revocable license to install,
+1. Use. Membase grants you a non-exclusive, non-transferable, revocable license to install,
    run and modify the Software for your own purposes of evaluating memory systems and
    reproducing the published results.
 
@@ -22,11 +22,11 @@ is proprietary to Unibase and is licensed, not sold.
    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
    PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-5. Limitation of liability. IN NO EVENT SHALL UNIBASE BE LIABLE FOR ANY CLAIM, DAMAGES OR
+5. Limitation of liability. IN NO EVENT SHALL MEMBASE BE LIABLE FOR ANY CLAIM, DAMAGES OR
    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
    OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 6. Termination. This license terminates automatically if you breach it. On termination you
    must stop using and delete all copies of the Software.
 
-For other licensing, contact Unibase.
+For other licensing, contact Membase.
