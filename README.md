@@ -5,7 +5,7 @@
 <h1 align="center">membase-bench</h1>
 
 <p align="center">
-  <b>Long-term memory benchmarks for <a href="https://www.unibase.com/memory">Membase</a></b>
+  <b>Long-term memory benchmarks for <a href="https://membase.com/research">Membase</a></b>
 </p>
 
 <p align="center">
@@ -99,5 +99,5 @@ and judges: see [baselines/](baselines/README.md).
 
 ## License
 
-Copyright © 2026 Unibase. All rights reserved; see [LICENSE](LICENSE). Datasets keep their own
+Copyright © 2026 Membase. All rights reserved; see [LICENSE](LICENSE). Datasets keep their own
 licenses (LoCoMo is CC BY-NC 4.0); third-party prompts are listed in [NOTICE](NOTICE).
